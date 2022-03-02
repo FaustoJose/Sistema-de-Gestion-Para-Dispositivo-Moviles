@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistema de Gestion Para Dispositivo Moviles", "Sistema de Gestion Para Dispositivo Moviles\Sistema de Gestion Para Dispositivo Moviles.csproj", "{041B2E61-E705-4326-A343-25151062FBE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{041B2E61-E705-4326-A343-25151062FBE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{041B2E61-E705-4326-A343-25151062FBE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{041B2E61-E705-4326-A343-25151062FBE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{041B2E61-E705-4326-A343-25151062FBE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9C7CBDE-1AE3-4311-9178-FB07B9A282FB}
+	EndGlobalSection
+EndGlobal
