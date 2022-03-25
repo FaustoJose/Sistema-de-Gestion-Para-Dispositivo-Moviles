@@ -1,0 +1,17 @@
+C:\Users\Hermosura\source\repos\Sistema de Gestion Para Dispositivo Moviles\Sistema de Gestion Para Dispositivo Moviles\bin\Release\Sistema de Gestion Para Dispositivo Moviles.exe.config
+C:\Users\Hermosura\source\repos\Sistema de Gestion Para Dispositivo Moviles\Sistema de Gestion Para Dispositivo Moviles\bin\Release\Sistema de Gestion Para Dispositivo Moviles.exe
+C:\Users\Hermosura\source\repos\Sistema de Gestion Para Dispositivo Moviles\Sistema de Gestion Para Dispositivo Moviles\bin\Release\Sistema de Gestion Para Dispositivo Moviles.pdb
+C:\Users\Hermosura\source\repos\Sistema de Gestion Para Dispositivo Moviles\Sistema de Gestion Para Dispositivo Moviles\obj\Release\Sistema de Gestion Para Dispositivo Moviles.csprojAssemblyReference.cache
+C:\Users\Hermosura\source\repos\Sistema de Gestion Para Dispositivo Moviles\Sistema de Gestion Para Dispositivo Moviles\obj\Release\Sistema_de_Gestion_Para_Dispositivo_Moviles.Form1.resources
+C:\Users\Hermosura\source\repos\Sistema de Gestion Para Dispositivo Moviles\Sistema de Gestion Para Dispositivo Moviles\obj\Release\Sistema_de_Gestion_Para_Dispositivo_Moviles.FrmInterfaz.FrmCliente.resources
+C:\Users\Hermosura\source\repos\Sistema de Gestion Para Dispositivo Moviles\Sistema de Gestion Para Dispositivo Moviles\obj\Release\Sistema_de_Gestion_Para_Dispositivo_Moviles.FrmInterfaz.FrmEmergentas.FrmEmgInventario.resources
+C:\Users\Hermosura\source\repos\Sistema de Gestion Para Dispositivo Moviles\Sistema de Gestion Para Dispositivo Moviles\obj\Release\Sistema_de_Gestion_Para_Dispositivo_Moviles.FrmInterfaz.FrmEmgCliente.resources
+C:\Users\Hermosura\source\repos\Sistema de Gestion Para Dispositivo Moviles\Sistema de Gestion Para Dispositivo Moviles\obj\Release\Sistema_de_Gestion_Para_Dispositivo_Moviles.FrmInterfaz.FrmEmergentas.FrmEmgListaProductos.resources
+C:\Users\Hermosura\source\repos\Sistema de Gestion Para Dispositivo Moviles\Sistema de Gestion Para Dispositivo Moviles\obj\Release\Sistema_de_Gestion_Para_Dispositivo_Moviles.FrmInventario.resources
+C:\Users\Hermosura\source\repos\Sistema de Gestion Para Dispositivo Moviles\Sistema de Gestion Para Dispositivo Moviles\obj\Release\Sistema_de_Gestion_Para_Dispositivo_Moviles.FrmInterfaz.FrmSevicio.resources
+C:\Users\Hermosura\source\repos\Sistema de Gestion Para Dispositivo Moviles\Sistema de Gestion Para Dispositivo Moviles\obj\Release\Sistema_de_Gestion_Para_Dispositivo_Moviles.FrmInterfaz.FrmVentas.resources
+C:\Users\Hermosura\source\repos\Sistema de Gestion Para Dispositivo Moviles\Sistema de Gestion Para Dispositivo Moviles\obj\Release\Sistema_de_Gestion_Para_Dispositivo_Moviles.Properties.Resources.resources
+C:\Users\Hermosura\source\repos\Sistema de Gestion Para Dispositivo Moviles\Sistema de Gestion Para Dispositivo Moviles\obj\Release\Sistema de Gestion Para Dispositivo Moviles.csproj.GenerateResource.cache
+C:\Users\Hermosura\source\repos\Sistema de Gestion Para Dispositivo Moviles\Sistema de Gestion Para Dispositivo Moviles\obj\Release\Sistema de Gestion Para Dispositivo Moviles.csproj.CoreCompileInputs.cache
+C:\Users\Hermosura\source\repos\Sistema de Gestion Para Dispositivo Moviles\Sistema de Gestion Para Dispositivo Moviles\obj\Release\Sistema de Gestion Para Dispositivo Moviles.exe
+C:\Users\Hermosura\source\repos\Sistema de Gestion Para Dispositivo Moviles\Sistema de Gestion Para Dispositivo Moviles\obj\Release\Sistema de Gestion Para Dispositivo Moviles.pdb
